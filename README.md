@@ -7,6 +7,7 @@ En este repositorio vamos a englobar toda la información sobre el proyecto inte
 
   
 ## [GymEat](https://github.com/Jesus-GR/AppIonicGymAndEat)- Aplicación realizada en Ionic
+
 -- Biografía utilizada:
 
   [Angular](https://angular.io/)
@@ -22,6 +23,7 @@ En este repositorio vamos a englobar toda la información sobre el proyecto inte
   [Doc Firebase](https://firebase.google.com/)
   
   [Profesorado IES Campanillas](https://github.com/IESCampanillas)
+  [RapidApi](https://rapidapi.com)
 
 ## [Landing GymEat](https://github.com/Jesus-GR/gymEatLanding) -- Landing en Angular
 
